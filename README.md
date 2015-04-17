@@ -3,9 +3,14 @@ An easy CLI to download all contents from a given AWS S3 bucket
 
 ## Installation
 
+From source:
 ```bash
 go get github.com/supherman/s3_downloader
 ```
+
+Compiled binary (OSX only)
+
+[See releases](https://github.com/supherman/s3_downloader/releases)
 
 ## Basic Usage
 
